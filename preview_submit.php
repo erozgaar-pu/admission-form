@@ -2,7 +2,7 @@
 // preview_submit.php
 
 // Database connection
-include('/home/khatqzcj/public_html/admission-form/db_connect.php');
+include('db_connect.php');
 
 
 // Prepare and bind
