@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "erozgaar-data",
+  "private_key_id": "f946503f32391c3b64c1f14c6a066b66bc03b994",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClpVR16ac418ZY\nB6y4OkkNUPlQ0mvU6RSiG7silBaFvbwpK/4CwWTDdxCyUXrEaz1aui+BgNzhnE61\nRBzG+4B2e/K3/OxBv0xHHD6uAPtsDDR+sQxapANrP3KUtQvDjZYEFSpX1qrtzHjL\nNx4iRaT0zO81ulnKnRnWhzOzH7aT5Xvy0bIgiafmCGmCGurX00z5NhpAEllzTbnB\nRONBm4tAhL1ECD3E8c61IthOiUPIXKX7cSOuPi7d8/ddiEIyiihJIabYqBQfrDZ3\n8usH5mNu0CW8ZcALP32fkcX2kVZyPhhMDzXl6juvaF7XkYtlyWfAi64e5MHqhniP\nZE+SGLodAgMBAAECggEACFaZONJJM6hQ+K9yN1ffw4bW9gWRngcZncttkSEJPTQ+\n24e2YqcfjmNY+ND3MBoB3aZPq+IzvDulDqTeGfohDlXQ8wgNUIXzrgSy9wlfnqHC\nprn82Dc3YNexyeCPNgnTimMSXZeVxSCs1/XvU2RUGGqUhAzcZkGgQldN9+9ZvnoT\nE8elLK1jtqutf3+oA/S4vfpxO9JJ0et0CKowqTPEMvU5985vs2diuH/r0BCkq/e+\nTe1iVEf51umyfn34GHKdHPhGw0z0tkpu+VT/EpvBNcmqTPKsS2/+KbaORrft5Yvq\nf4W8CXcHH/gPEgkCBdbUWGPnLzDzHh3GrbKTX7G0IQKBgQDU/24wRItbqxB3ocsP\nE5FS4f7oW2INe68qDHUjyY7DmHMzWu/DTmv9YESRAB8txGmjgZdXg4I72dwbFlxv\n5WVwaveJTY/XIhROZnxyPv1IApczfqx07CHDHCC8gsr7dRixoF2yWti52cU5HG7h\nX9GVS1UbSM3uK2ClSg5/5ZsImQKBgQDHFpANg1TKZu/chdG4QZnXvMxTAfsNe9PM\nTVqz9Czz1PcpJEXBygNJOzXxBFlsLklHaOF1v1Anjy/ieKTAzyUQDYwk3tibGXCy\nxpTv2k5jZIy/Ihm7AtkBsd4kb32svdbx2YlaAxwD0ETImsU66bu+9qEmgBlJTfBM\nNhskANXcJQKBgCRZMsSp7d5G4xiHU8/O1w394zJj5efHI61ZUuQ4kVRvv7kT27bI\nu0USGKFmE+wLiLuOcfVNS/xKwXUd68hsrVLx7ixQQCvGdRCsDLCybybKymLPSz7o\nzRouwqdo6pre8MffRh4ZwsJ0l2OXppRvdaS0pmFxmzL51BRg/vh0hnCBAoGBALSg\nn+nisddBNXZaY0BNJIs73BWjwmclZbACrrx+WRqQqf5FzpRX+EtE0VfunkMsa4fC\nfGwcO1jo7IUI+FGGnxXFdNUu6k8t8bYBvbcv1dcPrzLqeXXWy5RiEC32iYtkYdPj\njl6AW7aKCx4GbdNZpOFJWkRYDJkZgV9j55PuvhmRAoGAA9kL5iirP1lNlkWg5gG5\n07sr92PdbOg8bybHcGIXtQ/1jM4Lw6KUWBAueZoK6v/3Ko7D46XgjlX2t9d3NmYl\nwAZsewMFpvYsXiz6RqIZM44UxCnz6VMyWdttKyHl2tTIQ/kx4hpYgHOm8KkKND7+\nPBbwTHNe7W6pKG/LQSJl8tU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admission-form-erozgaar@erozgaar-data.iam.gserviceaccount.com",
+  "client_id": "106193850144469832937",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admission-form-erozgaar%40erozgaar-data.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
