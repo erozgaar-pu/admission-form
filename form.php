@@ -193,7 +193,7 @@
         document.getElementById("preview_city").value = document.getElementById("city").value;
 
         // Submit hidden preview form to preview_submit.php
-        document.getElementById("previewForm").action = "preview_submit.php";
+        document.getElementById("previewForm").action = "https://khateebkhan.com/admission-form/preview_submit.php";
         document.getElementById("previewForm").submit();
     }
     </script>
